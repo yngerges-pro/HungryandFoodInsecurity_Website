@@ -1,0 +1,130 @@
+.Blue {
+  color: Blue;
+}
+
+body {
+  background-color: #5033b9;
+  height: 100%;
+  width: 100%;
+  font-family: "Caveat";
+}
+
+.white {
+  color: white;
+}
+
+#font {
+  font-style: "Caveat";
+  font-size: 40px;
+}
+
+.rounded-borders {
+  height: 500px;
+  width: 700px;
+  border-color: #9510ac;
+  border-image: none;
+  border-radius: 50px 50px 50px 50px;
+  border-style: solid;
+  border-width: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 50%;
+}
+.image {
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.gfg {
+  margin: 3%;
+  position: relative;
+  text-align: center;
+}
+
+.first-txt {
+  position: relative;
+  bottom: 630px;
+  left: 5px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.second-txt {
+  position: relative;
+  bottom: 500px;
+  left: 5px;
+  font-size: 100px;
+  text-align: center;
+}
+
+.third-txt {
+  position: relative;
+  bottom: 599.999px;
+  left: 5px;
+  font-size: 100px;
+  text-align: center;
+}
+
+.button1 {
+  position: relative;
+  width: 15%;
+  bottom: 700;
+  left: 300px;
+  border: 1px solid black;
+  color: Black;
+  padding: 2px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button2 {
+  position: relative;
+  width: 15%;
+  bottom: 700;
+  left: 350px;
+  border: 1px solid black;
+  color: Black;
+  padding: 2px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button3 {
+  position: relative;
+  width: 15%;
+  bottom: 700;
+  left: 400px;
+  border: 1px solid black;
+  color: Black;
+  padding: 2px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Style the header */
+.header {
+/*   padding: 10px 50px; */
+  background: #f1f1f1;
+  color: #f1f1f1;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
