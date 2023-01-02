@@ -93,9 +93,34 @@ body {
 }
 
 .text {
-  font-size: 20px;
-  padding-left: 20px;
+  position: relative;
+  bottom: 50px;
+  right: 100px;
+  font-size: 50px;
+  text-align: center;
+/*   padding-left: 5px; */
+  
 }
+.text1 {
+  position: relative;
+  top: 150px;
+  right: 200px;
+  font-size: 50px;
+  text-align: center;
+/*   padding-left: 5px; */
+  
+}
+
+.text2 {
+  position: relative;
+  top: 150px;
+  left: 100px;
+  font-size: 50px;
+  text-align: center;
+/*   padding-left: 5px; */
+  
+}
+
 
 .gfg {
   margin: 3%;
@@ -145,6 +170,13 @@ body {
   position: relative;
   bottom: 220px;
   left: 5px;
+  font-size: 30px;
+  text-align: center;
+}
+.seventh-txt{
+  position: relative;
+  bottom: 50px;
+  left: auto;
   font-size: 30px;
   text-align: center;
 }
