@@ -66,10 +66,10 @@ function topFunction() {
 }
 
 function secondTopFunction(){
-  document.body.scrollTop = 650;
-  document.documentElement.scrollTop = 650;
+  document.body.scrollTop = 550;
+  document.documentElement.scrollTop = 550;
 }
 function bottomFunction(){
-  document.body.scrollTop = 1450;
-  document.documentElement.scrollTop = 1450;
+  document.body.scrollTop = 1350;
+  document.documentElement.scrollTop = 1350;
 }
