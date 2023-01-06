@@ -6,4 +6,4 @@ It has a sticky header and the buttons can take you to the designated section of
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/102266055/211097773-7d2bde8c-7837-4245-8650-e28537bb6c21.png)
 
-Here is my wireframe!
+Here is my wireframe! Used Miro to create it.
