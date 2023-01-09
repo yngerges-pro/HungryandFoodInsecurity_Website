@@ -70,6 +70,6 @@ function secondTopFunction(){
   document.documentElement.scrollTop = 550;
 }
 function bottomFunction(){
-  document.body.scrollTop = 1350;
-  document.documentElement.scrollTop = 1350;
+  document.body.scrollTop = 2010;
+  document.documentElement.scrollTop = 2010;
 }

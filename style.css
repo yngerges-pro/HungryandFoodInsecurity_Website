@@ -33,31 +33,72 @@ body {
 }
 
 .rounded-borders1 {
-  height: 200px;
+  height: 300px;
   width: 300px;
   border-color: #9510ac;
   border-image: none;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 1000px 1000px 1000px 1000px;
   border-style: solid;
   border-width: 20px;
   display: block;
   margin-left: 20px;
   margin-right: auto;
   border-width: 50%;
+  position: relative;
+  bottom: 300px;
+  
 }
 
 .rounded-borders2 {
-  height: 200px;
+  height: 300px;
   width: 300px;
   border-color: #9510ac;
   border-image: none;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 1000px 1000px 1000px 1000px;
   border-style: solid;
   border-width: 20px;
   display: block;
   margin-left: auto;
   margin-right: 50px;
   border-width: 50%;
+  border-bottom: 10%;
+  position: relative;
+  bottom: 300px;
+  
+}
+.rounded-borders3 {
+  height: 300px;
+  width: 300px;
+  border-color: #9510ac;
+  border-image: none;
+  border-radius: 1000px 1000px 1000px 1000px;
+  border-style: solid;
+  border-width: 20px;
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+  border-width: 50%;
+  border-bottom: 10%;
+  position: relative;
+  bottom: 1px;
+  
+}
+.rounded-borders4 {
+  height: 300px;
+  width: 300px;
+  border-color: #9510ac;
+  border-image: none;
+  border-radius: 1000px 1000px 1000px 1000px;
+  border-style: solid;
+  border-width: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: 50px;
+  border-width: 50%;
+  border-bottom: 10%;
+  position: relative;
+  bottom: 1px;
+  
 }
 
 .image {
@@ -68,7 +109,7 @@ body {
 }
 .image1 {
   position: relative;
-  bottom: 1px;
+  bottom: 100px;
   left: 0.2px;
   height: 200px;
   width: 300px;
@@ -78,12 +119,40 @@ body {
 
 .image2 {
   position: relative;
-  bottom: 1px;
+  bottom: 100px;
   left: 0.2px;
   height: 200px;
   width: 300px;
   text-align: left;
   opacity: 0.5;
+}
+
+.image3 {
+  position: relative;
+  bottom: 1px;
+  left: 0.2px;
+  height: 300px;
+  width: 300px;
+  border-radius: 1000px 1000px 1000px 1000px;
+  
+}
+.image4 {
+  position: relative;
+  bottom: 1px;
+  left: 0.2px;
+  height: 300px;
+  width: 300px;
+  border-radius: 1000px 1000px 1000px 1000px;
+  
+}
+.image5 {
+  position: relative;
+  bottom: 1px;
+  left: 0.2px;
+  height: 300px;
+  width: 300px;
+  border-radius: 1000px 1000px 1000px 1000px;
+  
 }
 
 .container {
@@ -111,9 +180,18 @@ body {
 
 .text2 {
   position: relative;
-  top: 150px;
+  top: 100px;
   left: 100px;
-  font-size: 50px;
+  font-size: 25px;
+  text-align: center;
+  /*   padding-left: 5px; */
+}
+
+.text3 {
+  position: relative;
+  top: 100px;
+  right: 100px;
+  font-size: 25px;
   text-align: center;
   /*   padding-left: 5px; */
 }
