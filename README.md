@@ -1,6 +1,7 @@
 # HungryandFoodInsecurity_Website
 
-![Screenshot (4)](https://user-images.githubusercontent.com/102266055/211453994-6cfebbfb-55a1-46ae-bc8b-07efb4de4fd3.png)
+Video Walkthrough of my site!
+![GIF](http://g.recordit.co/rCFqcOQTqz.gif)
 
 The website has a sticky header with buttons that goes to the designated part of the site
 
