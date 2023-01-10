@@ -2,7 +2,7 @@
 
 Video Walkthrough of my site!
  
-[MyGIF](https://recordit.co/rCFqcOQTqz) 
+![MyGIF](http://g.recordit.co/3BJY4vWLvA.gif) 
 
 The website has a sticky header with buttons that goes to the designated part of the site
 
