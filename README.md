@@ -1,7 +1,7 @@
 # HungryandFoodInsecurity_Website
 
 Video Walkthrough of my site!
-![GIF](http://g.recordit.co/rCFqcOQTqz.gif)
+![](http://g.recordit.co/rCFqcOQTqz.gif)
 
 The website has a sticky header with buttons that goes to the designated part of the site
 
